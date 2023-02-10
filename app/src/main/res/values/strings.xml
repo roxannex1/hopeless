@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">3_project</string>
+    <string name="all_animes">all animes</string>
+    <string name="select">select</string>
+    <string name="by_season">by season</string>
+    <string name="profile">profile</string>
+    <string name="love_roxannex">Love Roxannex!</string>
+    <string name="Roxannexxx">Roxannex</string>
+    <string name="animes_fragment">Animes Fragment</string>
+</resources>

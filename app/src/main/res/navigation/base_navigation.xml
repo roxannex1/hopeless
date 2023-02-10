@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             android:id="@+id/base_navigation"
+    app:startDestination="@id/selectFragment">
+
+    <fragment
+        android:id="@+id/selectFragment"
+        android:name="com.example.a3_project.ui.animes.select.SelectFragment"
+        android:label="SelectFragment" />
+    <fragment
+        android:id="@+id/animesFragment"
+        android:name="com.example.a3_project.ui.animes.AnimesFragment"
+        android:label="AnimesFragment" />
+    <fragment
+        android:id="@+id/seasonsFragment"
+        android:name="com.example.a3_project.ui.animes.seasons.SeasonsFragment"
+        android:label="SeasonsFragment" />
+</navigation>
